@@ -1,3 +1,4 @@
+# This is a test siomple SPA app made on Vue2 with Vue-CLI
 # vue-crash-course
 
 ## Project setup
